@@ -48,8 +48,6 @@ class _GetImagesState extends State<GetImages> {
                           print(e);
                           
                         });
-  
-                       
                       },
                       direction: DismissDirection.vertical,
                       background: Icon(Icons.delete_forever_rounded),
